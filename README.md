@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ending1995&show_icons=true&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=340" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=340" />
 </a>
 
 <br/>
@@ -45,7 +45,6 @@
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/oracle" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftsqlserver" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/redis" /></a>
-<a><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/shell" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" /></a>
 ***
