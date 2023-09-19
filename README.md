@@ -9,8 +9,10 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ending1995&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ending1995&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
