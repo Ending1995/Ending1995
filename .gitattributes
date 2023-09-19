@@ -7,3 +7,5 @@
 *.sql linguist-language=HTML
 *.uml linguist-language=HTML
 *.cmd linguist-language=HTML
+*.svg linguist-language=HTML
+*.png linguist-language=HTML
