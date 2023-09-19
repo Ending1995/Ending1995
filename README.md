@@ -9,11 +9,21 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ending1995&theme=radical&layout=compact&langs_count=8&card_width=120" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ending1995&theme=radical&layout=compact&langs_count=8&card_width=50" />
 </a>
+
 
 <br/>
 <br/>
+
+<!--   Readme Card  -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
