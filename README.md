@@ -4,8 +4,10 @@
 ![](resources/header.png)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ending1995" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ending1995&show_icons=true&theme=radical#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ending1995&show_icons=true&theme=radical#gh-light-mode-only" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ending1995&layout=compact&langs_count=8&card_width=320" />
 </a>
