@@ -1,7 +1,10 @@
 ![Bottom_up](resources/Bottom_up.svg)
 
-<!--   my-header-img -->
+<!--   header-img -->
 ![header](resources/header.png)
+
+<!--   Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com??color=%2336BCF7&center=true&vCenter=true&font=Fira+Code&pause=1000&width=850&lines=Hi+there%F0%9F%91%8B%2CI+am+Ending%EF%BC%81;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--   GitHub readme stats  -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,10 +14,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=345" />
 </a>
 
-<br/>
-<br/>
-
 <!--   Readme Card  -->
+### 📈 repositories:
 <a href="https://github.com/Ending1995/Ending1995">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -47,6 +48,8 @@
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/redis" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/shell" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" /></a>
+
+
 ***
 
 <!--   GitHub stats graph -->
