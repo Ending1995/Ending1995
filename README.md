@@ -7,12 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com??color=%2336BCF7&center=true&vCenter=true&font=Fira+Code&pause=1000&width=850&lines=Hi+there%F0%9F%91%8B%2CI+am+Ending%EF%BC%81;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--   GitHub readme stats  -->
+<span>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ending1995&show_icons=true&theme=radical#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=345" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=radical&layout=compact&langs_count=8&card_width=340" />
 </a>
+</span>
 
 <!--   Readme Card  -->
 ### 📈 repositories:
