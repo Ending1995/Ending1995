@@ -1,6 +1,16 @@
 ![Bottom_up](resources/Bottom_up.svg)
 
-<!--   header-img -->
+<!--   my icons -->
+<p align="center">
+    <a href="https://github.com/Ending1995/Ending1995"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://java.com"><img src="https://img.shields.io/badge/Program-Java-FF1493.svg"></a>
+    <a href="https://github.com/Ending1995/Ending1995/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ending1995/Ending1995?color=blue"></a>
+    <a href="https://github.com/Ending1995/Ending1995/stargazers"><img src="https://img.shields.io/github/stars/Ending1995/Ending1995.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/Ending1995/Ending1995.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ending1995.Ending1995" alt="visitors"/>   
+</p>
+
+<!--   header img -->
 ![header](resources/header.png)
 
 <!--   Typing SVG -->
@@ -15,7 +25,7 @@
 </a>
 
 <!--   Readme Card  -->
-### 📈 repositories:
+### 📁 repositories:
 <a href="https://github.com/Ending1995/Ending1995">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -24,7 +34,7 @@
 </a>
 
 <!--   Skills  -->
-### 📈 Skills:
+### 📚 Skills:
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/jquery" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /></a>
@@ -53,7 +63,7 @@
 ***
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### 📊 GitHub Activity Graph:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
