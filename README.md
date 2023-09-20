@@ -33,6 +33,19 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ending1995&repo=Ending1995&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+<!--   GitHub activity graph -->
+### 📈 GitHub Activity Graph:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ending1995&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<!--   GitHub contribution grid snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--   Skills  -->
 ### 📚 Skills:
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
@@ -58,16 +71,5 @@
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/redis" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/shell" /></a>
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" /></a>
-
-
-***
-
-<!--   GitHub stats graph -->
-### 📊 GitHub Activity Graph:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
-</picture>
 
 ![Bottom_down](resources/Bottom_down.svg)
