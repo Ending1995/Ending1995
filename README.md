@@ -4,10 +4,10 @@
 <p align="center">
     <a href="https://github.com/Ending1995/Ending1995"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://java.com"><img src="https://img.shields.io/badge/Program-Java-FF1493.svg"></a>
-    <a href="https://github.com/Ending1995/Ending1995/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ending1995/Ending1995?color=blue"></a>
+    <a href="https://github.com/Ending1995/Ending1995/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ending1995/Ending1995?color=blue&logo=github"></a>
     <a href="https://github.com/Ending1995/Ending1995/stargazers"><img src="https://img.shields.io/github/stars/Ending1995/Ending1995.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/Ending1995/Ending1995.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ending1995.Ending1995" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Ending1995.Ending1995&logo=github" alt="visitors"/>   
 </p>
 
 <!--   header img -->
