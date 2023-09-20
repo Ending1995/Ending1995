@@ -46,12 +46,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ending1995/Ending1995/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--   Star History Chart  -->
-### ⭐ Star History Chart:
-<a href="https://star-history.com/#Ending1995/Ending1995&Date">
-  <img align="center" width=850 src="https://api.star-history.com/svg?repos=Ending1995/Ending1995&type=Date" />
-</a>
-
 <!--   Skills  -->
 ### 📚 Skills:
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
@@ -79,7 +73,13 @@
 <a><img height="32" width="32" src="https://cdn.simpleicons.org/notepadplusplus" /></a>
 
 <!--   Star History Chart  -->
-### 📝 count:
+### ⭐ Star History Chart:
+<a href="https://star-history.com/#Ending1995/Ending1995&Date">
+  <img align="center" width=850 src="https://api.star-history.com/svg?repos=Ending1995/Ending1995&type=Date" />
+</a>
+
+<!--   Visits  -->
+### 📝 Visits:
 ![](https://count.getloli.com/get/@Ending1995.github.readme)
 
 </br>
